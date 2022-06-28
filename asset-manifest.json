@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32c219c1.css",
+    "main.js": "/static/js/main.ae52484e.js",
+    "static/js/787.82a29597.chunk.js": "/static/js/787.82a29597.chunk.js",
+    "static/media/harrnish-cover-img.jpg": "/static/media/harrnish-cover-img.07b187c63a80c3c39f9c.jpg",
+    "index.html": "/index.html",
+    "main.32c219c1.css.map": "/static/css/main.32c219c1.css.map",
+    "main.ae52484e.js.map": "/static/js/main.ae52484e.js.map",
+    "787.82a29597.chunk.js.map": "/static/js/787.82a29597.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32c219c1.css",
+    "static/js/main.ae52484e.js"
+  ]
+}
